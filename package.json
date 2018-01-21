@@ -1,6 +1,6 @@
 {
   "name": "@strothj/l10n.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "l10n.js",
   "repository": "https://github.com/strothj/l10n.js.git",
   "author": "OFTN Inc.",
