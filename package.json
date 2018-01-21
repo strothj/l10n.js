@@ -1,7 +1,7 @@
 {
   "name": "@strothj/l10n.js",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "l10n.js",
   "repository": "https://github.com/strothj/l10n.js.git",
   "author": "OFTN Inc.",
   "license": "MIT",
